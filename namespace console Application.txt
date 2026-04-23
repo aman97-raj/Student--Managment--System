@@ -1,0 +1,14 @@
+namespace console Application
+{
+class program
+{
+static void main(string[]args)
+{
+string builder st=new string builder("123456789");
+
+St.Insert(6,"RKMSCC,");
+St.Insert(2,"Belur",3);
+Console.Writeline("my string Builder="+St)
+Console.Readline();
+}
+}
